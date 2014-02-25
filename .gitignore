@@ -21,8 +21,8 @@ doc/
 *.swp
 *~
 .project
-.sublime-project
-.sublime-workspace
+callcentre.sublime-project
+callcentre.sublime-workspace
 .DS_Store
 .idea
 .secret
